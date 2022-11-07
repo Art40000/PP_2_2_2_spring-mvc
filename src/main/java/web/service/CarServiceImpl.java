@@ -4,7 +4,6 @@ import org.springframework.stereotype.Component;
 import web.dao.CarDAO;
 import web.dao.CarDAOImpl;
 import web.model.Car;
-
 import java.util.ArrayList;
 import java.util.List;
 
